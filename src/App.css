@@ -1,9 +1,8 @@
 .App {
   text-align: center;
   background-image: url("https://w0.peakpx.com/wallpaper/470/190/HD-wallpaper-africa-animal-elephant-savannah-wildlife-african.jpg");
-  position: fixed;
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 0%;
+  min-height: 0%;
   background-size: cover;
   background-position: center;
 }
@@ -44,9 +43,9 @@
 }
 .gradient {
 background-color: #00DBDE;
-background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100% );
+background-image: linear-gradient(90deg, #000000 20%, #f6ff00 100% );
 }
-
+background-image: linear-gradient(90deg, #cfde00 0%, #FC00FF 100% );
 .gradient1 {
   background-color: #000000;
   background-image: linear-gradient(90deg, #000000 0%, #000000 100% );
